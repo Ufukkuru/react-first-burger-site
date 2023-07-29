@@ -1,0 +1,83 @@
+
+{
+    "data": [
+    {
+        "id":1,
+        "title": "lorem ipsum",
+        "money": 11.99,
+        "raiting": 4.1,
+        "paragraf1" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, similique.",
+        "paragraf2" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, turnoi.",
+        "paragraf3" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, sebastian.",
+        "image" : "/hamburger-product.png"
+    },
+    {
+        "id":2,
+        "title": "lorem ipsum",
+        "money": 9.99,
+        "raiting": 3.8,
+        "paragraf1" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, similique.",
+        "paragraf2" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, turnoi.",
+        "paragraf3" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, sebastian.",
+        "image" : "/hamburger-product.png"
+    },
+    {
+        "id":3,
+        "title": "lorem ipsum",
+        "money": 8.99,
+        "raiting": 4.7,
+        "paragraf1" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, similique.",
+        "paragraf2" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, turnoi.",
+        "paragraf3" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, sebastian.",
+        "image" : "/hamburger-product.png"
+    },
+    {
+        "id":4,
+        "title": "lorem ipsum",
+        "money": 9.0,
+        "raiting": 4.6,
+        "paragraf1" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, similique.",
+        "paragraf2" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, turnoi.",
+        "paragraf3" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, sebastian.",
+        "image" : "/hamburger-product.png"
+    },
+    {
+        "id":5,
+        "title": "lorem ipsum",
+        "money": 12.99,
+        "raiting": 4.2,
+        "paragraf1" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, similique.",
+        "paragraf2" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, turnoi.",
+        "paragraf3" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, sebastian.",
+        "image" : "/hamburger-product.png"
+    },
+    {
+        "id":6,
+        "title": "lorem ipsum",
+        "money": 11.10,
+        "raiting": 4.3,
+        "paragraf1" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, similique.",
+        "paragraf2" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, turnoi.",
+        "paragraf3" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, sebastian.",
+        "image" : "/hamburger-product.png"
+    },{
+        "id":7,
+        "title": "lorem ipsum",
+        "money": 13.99,
+        "raiting": 4.8,
+        "paragraf1" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, similique.",
+        "paragraf2" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, turnoi.",
+        "paragraf3" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, sebastian.",
+        "image" : "/hamburger-product.png"
+    },{
+        "id":8,
+        "title": "lorem ipsum",
+        "money": 10.99,
+        "raiting": 4.0,
+        "paragraf1" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, similique.",
+        "paragraf2" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, turnoi.",
+        "paragraf3" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, sebastian.",
+        "image" : "/hamburger-product.png"
+    }
+]
+}
